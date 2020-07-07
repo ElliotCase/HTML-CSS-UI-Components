@@ -1,4 +1,9 @@
-Thanks for checking out this short HTML & CSS UI Components project
+## Thanks for checking out this short HTML & CSS UI Components project
+
+![Design preview for the Blog Post design](Blog%20Cards/Design/Blog-Cards.png)
+
+![Design preview for the Login Page design](Login%20Page/Design/Login-Page.png)
+
 
 
 Links to original designs on UI Design Daily
